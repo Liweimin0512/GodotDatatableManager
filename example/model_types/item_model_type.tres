@@ -1,0 +1,12 @@
+[gd_resource type="Resource" script_class="ModelType" load_steps=5 format=3 uid="uid://d3t4ya5y1f7sm"]
+
+[ext_resource type="Script" path="res://addons/li_data_manager/model_type.gd" id="1_htxh6"]
+[ext_resource type="Script" path="res://example/item_model/item_model.gd" id="1_y3bps"]
+[ext_resource type="Script" path="res://addons/li_data_manager/table_type.gd" id="2_xma5t"]
+[ext_resource type="Resource" uid="uid://do1imsti67t3q" path="res://example/table_types/item_table_type.tres" id="4_eo4w6"]
+
+[resource]
+script = ExtResource("1_htxh6")
+model_name = &"item"
+model_script = ExtResource("1_y3bps")
+tables = Array[ExtResource("2_xma5t")]([ExtResource("4_eo4w6")])

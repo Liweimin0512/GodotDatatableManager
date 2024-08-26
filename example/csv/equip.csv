@@ -1,0 +1,4 @@
+ID,item_name,equip_type
+ID,名称,装备类型
+string,string,string
+sword,剑,weapon

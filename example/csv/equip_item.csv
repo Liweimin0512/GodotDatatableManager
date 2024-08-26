@@ -1,0 +1,4 @@
+ID,item_name,item_description,max_stack
+ID,名称,描述,堆叠上限
+string,string,string,int
+sword,剑,不是有了剑就可以当骑士，你说是吧？,1

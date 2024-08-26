@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="ItemModel" load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://example/item_model/item_model.gd" id="1_h48lj"]
+
+[resource]
+script = ExtResource("1_h48lj")
+ID = &"wood"
+item_name = &"木头"
+item_description = "我恨你是块木头！"
+max_stack = 20
+amount = 12

@@ -1,0 +1,4 @@
+﻿ID,item_name,item_description,max_stack
+ID,名称,描述,堆叠上限
+string,string,string,int
+test,测试数据,测试？测试！,2

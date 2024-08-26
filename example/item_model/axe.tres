@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="ItemModel" load_steps=2 format=3 uid="uid://c3o07exxvcyjr"]
+
+[ext_resource type="Script" path="res://example/item_model.gd" id="1_8mfav"]
+
+[resource]
+script = ExtResource("1_8mfav")
+ID = &"axe"
+item_name = &"斧子"
+item_description = "斧头帮总听说过吧？"
+max_stack = 1
