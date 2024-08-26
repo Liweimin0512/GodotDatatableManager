@@ -1,37 +1,24 @@
 # GodotDatatableManager
 
-#### 介绍
-godot4.x基于resource和文本配置文件提供的简单易用的数据配置和运行时创建数据模型的功能模块。
+[中文文档](docs/README.cn.md)
 
-#### 软件架构
-软件架构说明
+## Introduction
 
+A simple and easy-to-use data configuration and runtime data model creation feature module based on `resource` and text configuration files for Godot 4.x.
 
-#### 安装教程
+## Usage Instructions
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+For the time being, you can refer to my illustrated tutorial. The usage instructions will be written a bit later.
 
-#### 使用说明
+## Contribution
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+- Fork this repository
+- Create a new branch `Feat_xxx`
+- Commit your code
+- Create a Pull Request
 
-#### 参与贡献
+## Thanks for Your Support
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+For more high-quality video courses, you can visit Lao Li's Bilibili homepage: [Lao Li's Bilibili Space](https://space.bilibili.com/8618918)
+![alt text](docs/知识星球-二维码.jpg)
+You can also follow Lao Li's Knowledge Planet. Search for "Lao Li Game Academy" on the Knowledge Planet website, app, or WeChat public account to join and become a die-hard fan of Lao Li. Let's work together to create a more high-quality independent game developer community!

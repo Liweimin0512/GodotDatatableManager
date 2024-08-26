@@ -11,7 +11,7 @@ func _ready() -> void:
 	wood.amount = 12
 	print(wood.item_name, ":", wood.item_description)
 	print(wood.item_name, ":", wood.amount)
-	ResourceSaver.save(wood, "res://wood.tres")
+	ResourceSaver.save(wood, "res://example/item_model/wood.tres")
 	wood = load("res://wood.tres")
 	print(wood.item_name, ":", wood.amount)
 
