@@ -8,7 +8,7 @@ A simple and easy-to-use data configuration and runtime data model creation feat
 
 ## Usage Instructions
 
-For the time being, you can refer to my illustrated tutorial. The usage instructions will be written a bit later.
+For the time being, you can refer to my [illustrated tutorial](https://docs.qq.com/doc/p/19f4731c161aca8d2fa5b8c0b0fd48ecb5fc57f2). The usage instructions will be written a bit later.
 
 ## Contribution
 
