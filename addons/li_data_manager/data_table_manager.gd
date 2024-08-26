@@ -109,7 +109,7 @@ func get_data_models(model_name: StringName) -> Array[Resource]:
 	var model_type : ModelType = _model_types[model_name]
 	var models: Array[Resource]
 	for table_type: TableType in model_type.tables:
-		for data : Dictionary in get_datatable_all(table_type.table_name):
+		for data : Dictionary in get_datatable_all(table_type.table_name).values():
 			var model := _create_model(model_type.model_script, data)
 			models.append(model)
 	return models
@@ -121,7 +121,7 @@ func _create_model(model_scrit: GDScript, data : Dictionary) -> Resource:
 		func(key: String):
 			model.set(key, data[key])
 	)
-	if model.has_method("_ready"): model.call("_ready")
+	if model.has_method("_ready"): model.call("_ready", data)
 	return model
 
 #endregion
