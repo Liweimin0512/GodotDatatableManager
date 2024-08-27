@@ -12,7 +12,7 @@ func _ready() -> void:
 	print(wood.item_name, ":", wood.item_description)
 	print(wood.item_name, ":", wood.amount)
 	ResourceSaver.save(wood, "res://example/item_model/wood.tres")
-	wood = load("res://wood.tres")
+	wood = load("res://example/item_model/wood.tres")
 	print(wood.item_name, ":", wood.amount)
 
 	DatatableManager.load_datatable(ITEM_TABLE_TYPE)

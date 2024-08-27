@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="TableType" load_steps=2 format=3 uid="uid://yqkoiierwcsn"]
 
-[ext_resource type="Script" path="res://addons/li_data_manager/table_type.gd" id="1_yrkh5"]
+[ext_resource type="Script" path="res://addons/li_data_manager/types/table_type.gd" id="1_yrkh5"]
 
 [resource]
 script = ExtResource("1_yrkh5")
