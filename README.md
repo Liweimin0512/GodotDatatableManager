@@ -4,7 +4,7 @@
 
 ## Introduction
 
-A simple and easy-to-use data configuration and runtime data model creation feature module based on `resource` and text configuration files for Godot 4.x.
+A simple and easy-to-use data configuration and runtime data model creation feature module based on `resource` and text configuration files for Godot 4.3 +.
 
 ## Usage Instructions
 
